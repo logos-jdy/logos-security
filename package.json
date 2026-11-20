@@ -1,0 +1,11 @@
+{
+  "name": "github-security-lab",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Intentionally vulnerable static scanning lab; not for deployment",
+  "dependencies": {
+    "express": "4.21.2",
+    "lodash": "4.17.10",
+    "mysql": "2.18.1"
+  }
+}
